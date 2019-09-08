@@ -11,7 +11,7 @@ Startup (interactive):
     docker run -it -p 8080:8080 -v DATA-DIR:/data limbomedia/limboesp
 
 Important:
-The initial username and password is "admin". At least the password should be changed in DATA-DIR/limboesp.cfg which is created in first startup.
+The initial username and password is "admin". At least the password should be changed in DATA-DIR/limboesp.cfg which is created upon first startup.
 
 Links:
 
