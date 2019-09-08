@@ -13,6 +13,6 @@ Startup (interactive):
 Important:
 The initial username and password is "admin". At least the password should be changed in DATA-DIR/limboesp.cfg which is created upon first startup.
 
-Links:
-
-[Docker](https://hub.docker.com/r/limbomedia/limboesp/)
+## Links
+* [LimboESP on GitHub](https://github.com/thomaskuh/limboesp)
+* [LimboESP on Docker](https://hub.docker.com/r/limbomedia/limboesp)
